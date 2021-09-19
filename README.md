@@ -7,3 +7,7 @@ I will try to predict how much rating course will get, if the new course is publ
 KDD Methodology is used as a Data Mining technique to implement the project
 The steps includes: 
 
+Data cleaning and pre-processing: Data is in the form of .csv format. It is first loaded in to R using read_csv() function. Insignificant columns are dropped from the dataset. Once the data set is loaded in to R, it is checked for the missing values using sapply() function. 2% missing values are detected by plotting graph using missmap() function from "Amelia" package.
+
+
+
