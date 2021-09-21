@@ -1,3 +1,5 @@
+Masters of Science (Data Analytics) - Semester 1 project Subject : Data Mining and Machine Learning 1
+
 # Decision-tree-regressor-for-Udemy-dataset
 Implementing Decision tree regression technique to predict ratings for Udemy dataset
 
